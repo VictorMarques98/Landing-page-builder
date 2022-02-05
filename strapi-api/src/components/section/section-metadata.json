@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_section_metadata",
+  "info": {
+    "displayName": "section_metadata",
+    "icon": "arrow-alt-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "section_id": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "background": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}

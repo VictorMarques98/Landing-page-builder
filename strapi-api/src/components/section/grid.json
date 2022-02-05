@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_grids",
+  "info": {
+    "displayName": "text_grid",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
