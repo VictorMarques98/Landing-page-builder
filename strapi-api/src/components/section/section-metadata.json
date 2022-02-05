@@ -2,7 +2,8 @@
   "collectionName": "components_section_section_metadata",
   "info": {
     "displayName": "section_metadata",
-    "icon": "arrow-alt-circle-right"
+    "icon": "arrow-alt-circle-right",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -13,8 +14,7 @@
     "section_id": {
       "type": "string",
       "unique": true,
-      "required": true,
-      "regex": "^[a-zA-Z]+([0-9-]*[a-zA-Z]+)*$"
+      "required": true
     },
     "background": {
       "type": "boolean",
