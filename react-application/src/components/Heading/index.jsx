@@ -2,13 +2,15 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import * as Styled from './styles';
 
-export const Heading = ({ children, colorDark, as, size, uppercase }) => {
+const Heading = ({ children, colorDark, as, size, uppercase }) => {
   return (
     <Styled.Title colorDark={colorDark} as={as} size={size} uppercase={uppercase}>
       {children}
     </Styled.Title>
   );
 };
+
+export default Heading;
 
 Heading.defaultProps = {
   children: {},
@@ -19,7 +21,7 @@ Heading.defaultProps = {
 };
 
 Heading.propTypes = {
-  children: PropTypes.element.isRequired,
+  children: PropTypes.node.isRequired,
   colorDark: PropTypes.bool.isRequired,
   as: PropTypes.oneOf(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']),
   size: PropTypes.oneOf(['small', 'medium', 'large', 'big']),
