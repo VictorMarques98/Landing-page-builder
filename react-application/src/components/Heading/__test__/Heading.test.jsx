@@ -40,7 +40,7 @@ describe('<Heading />', () => {
     const heading = screen.getByRole('heading', { name: 'Text-test-four' });
 
     expect(heading).toHaveStyleRule('font-size', theme.font.sizes.large, {
-      media: theme.font.media.lteMedium,
+      media: theme.media.lteMedium,
     });
   });
 

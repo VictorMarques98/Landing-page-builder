@@ -62,6 +62,16 @@
           "localized": true
         }
       }
+    },
+    "email": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "email",
+      "required": true,
+      "unique": true
     }
   }
 }

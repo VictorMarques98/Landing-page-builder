@@ -17,7 +17,7 @@ const titleSize = {
 };
 
 const queryFont = (theme) => css`
-  @media ${theme.font.media.lteMedium} {
+  @media ${theme.media.lteMedium} {
     font-size: ${theme.font.sizes.large};
   }
 `;
