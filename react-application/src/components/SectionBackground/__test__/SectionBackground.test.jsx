@@ -1,6 +1,6 @@
 import { screen } from '@testing-library/react';
 import React from 'react';
-import SectionBackground from '../';
+import SectionBackground from '..';
 import renderTheme from '../../../styles/render-theme';
 
 describe('<SectionBackground />', () => {
