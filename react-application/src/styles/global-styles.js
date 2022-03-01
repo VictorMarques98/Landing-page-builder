@@ -24,4 +24,8 @@ export const GlobalStyles = createGlobalStyle`
     font-family: ${({ theme }) => theme.font.family.secondary};
   }
 
+  p {
+    margin: ${({ theme }) => theme.font.spacings.medium} 0;
+  }
+
 `;

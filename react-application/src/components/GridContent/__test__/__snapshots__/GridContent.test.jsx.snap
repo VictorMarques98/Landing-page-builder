@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridContent /> should render 1`] = `
+.c2 {
+  text-align: center;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.c4 {
+  margin: 4.0rem 0;
+}
+
+.c0 {
+  background: #FFFF;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  max-width: 1120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+.c3 {
+  color: #0a1128;
+  text-transform: uppercase;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4.0rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <h1
+          class="c3"
+        >
+          O titulo que eu quero
+        </h1>
+        <div
+          class="c4"
+        >
+          <p
+            class="c5"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+  when an unknown printer took a galley of type and scrambled it to make a type
+  specimen book.It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the
+  release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+  like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridContent /> should render grid content 1`] = `
+.c2 {
+  text-align: center;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.c4 {
+  margin: 4.0rem 0;
+}
+
+.c0 {
+  background: #FFFF;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  max-width: 1120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+.c3 {
+  color: #0a1128;
+  text-transform: uppercase;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4.0rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <h1
+          class="c3"
+        >
+          O titulo que eu quero
+        </h1>
+        <div
+          class="c4"
+        >
+          <p
+            class="c5"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+  when an unknown printer took a galley of type and scrambled it to make a type
+  specimen book.It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the
+  release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+  like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridContent /> should render grid content 2`] = `
+.c2 {
+  text-align: center;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.c4 {
+  margin: 4.0rem 0;
+}
+
+.c0 {
+  background: #FFFF;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  max-width: 1120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+.c3 {
+  color: #0a1128;
+  text-transform: uppercase;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4.0rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <h1
+          class="c3"
+        >
+          O titulo que eu quero
+        </h1>
+        <div
+          class="c4"
+        >
+          <p
+            class="c5"
+          >
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
+  when an unknown printer took a galley of type and scrambled it to make a type
+  specimen book.It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the
+  release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+  like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
